@@ -7,7 +7,7 @@ public class Dog extends Pet implements Pettable{
         super(name);
     }
     public Dog(String name, Date birthDate) {
-        super(name, birthDate); //will correctly map and call to constructor
+        super(name, birthDate);
     }
 
     @Override

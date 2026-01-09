@@ -7,7 +7,7 @@ public class Scorpion extends Pet{
         super(name);
     }
     public Scorpion(String name, Date birthDate) {
-        super(name, birthDate); //will correctly map and call to constructor
+        super(name, birthDate); 
     }
 
     @Override
