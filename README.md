@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Karina Zhang`
+- **CCID:** `1766546`
 
 ## References and Resources
 
