@@ -3,7 +3,8 @@
 ## Student Details
 
 - **Full Name:** `Karina Zhang`
-- **CCID:** `1766546`
+- **CCID:** `xz30`
+- **Student ID:** `1766546`
 
 ## References and Resources
 
